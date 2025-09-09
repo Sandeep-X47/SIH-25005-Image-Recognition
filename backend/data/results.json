@@ -1,0 +1,176 @@
+[
+  {
+    "id": "0681df5237ca44048df593e34fcc93e0",
+    "filename": "9be1a74414734395923edfb8ace3a073_cow(1)_SIH.jpeg",
+    "file_url": "/uploads/9be1a74414734395923edfb8ace3a073_cow(1)_SIH.jpeg",
+    "timestamp": "2025-09-09T13:30:53.025581Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.908476710319519,
+        "box": [
+          30.940044403076172,
+          24.72713279724121,
+          255.6007537841797,
+          174.2928009033203
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "d6d4c7a03ab544b9b57445c70db28f5a",
+    "filename": "771968657fee428d94cac3448c4d764c_cow(1)_SIH.jpeg",
+    "file_url": "/uploads/771968657fee428d94cac3448c4d764c_cow(1)_SIH.jpeg",
+    "timestamp": "2025-09-09T13:42:31.066234Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.908476710319519,
+        "box": [
+          30.940044403076172,
+          24.72713279724121,
+          255.6007537841797,
+          174.2928009033203
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  }
+]
